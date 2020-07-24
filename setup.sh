@@ -1,5 +1,4 @@
-mkdir -p /Users/evanedelstein/Desktop/Research_Evan/Streamlitapptest/.streamlit/
-
+# mkdir -p /Users/evanedelstein/Desktop/Research_Evan/Streamlitapptest/.streamlit/
 echo "\
 [server]\n\
 headless = true\n\
