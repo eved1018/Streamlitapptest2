@@ -1,9 +1,13 @@
+mkdir -p ~/.streamlit/
 
-mkdir -p ~/Desktop/Research_Evan/Streamlitapptest/.streamlit/
+echo "\
+[general]\n\
+email = \"edelsteinevan@gmail.com\"\n\
+" > ~/.streamlit/credentials.toml
+
 echo "\
 [server]\n\
 headless = true\n\
+enableCORS=false\n\
 port = $PORT\n\
-enableCORS = false\n\
-\n\
-" > ~/Desktop/Research_Evan/Streamlitapptest/.streamlit/config.toml
+" > ~/.streamlit/config.toml
