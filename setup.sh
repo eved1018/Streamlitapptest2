@@ -6,4 +6,4 @@ headless = true\n\
 port = $PORT\n\
 enableCORS = false\n\
 \n\
-" > /Users/evanedelstein/Desktop/Research_Evan/Streamlitapptest/.streamlit//config.toml
+" > /Users/evanedelstein/Desktop/Research_Evan/Streamlitapptest/.streamlit/config.toml
