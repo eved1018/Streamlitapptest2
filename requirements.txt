@@ -25,7 +25,7 @@ entrypoints==0.3
 enum-compat==0.0.3
 filelock==3.0.12
 future==0.18.2
-Glances==3.1.4.1
+Glances==3.2.1
 graphviz==0.14
 idna==2.10
 imgkit==1.0.2
